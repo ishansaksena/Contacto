@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9A45EC7FA9365A99C5CC1910B55F5671D170279D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9A45EC7FA9365A99C5CC1910B55F5671D170279D" : 0,
+    "86A7372CBBA602B86158E03B1503899C0A2B3ABF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5D7F3A4C-07A9-4744-A8ED-2EF886439ACB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9A45EC7FA9365A99C5CC1910B55F5671D170279D" : "Contacto\/",
+    "86A7372CBBA602B86158E03B1503899C0A2B3ABF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Contacto",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Contacto.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tallen94\/iOSCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86A7372CBBA602B86158E03B1503899C0A2B3ABF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tallen94\/contacto-498.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A45EC7FA9365A99C5CC1910B55F5671D170279D"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "contacto",
+  "version": "1.0.0",
+  "description": "A contact sharing application",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "~1.4.6"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

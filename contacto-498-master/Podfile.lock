@@ -1,0 +1,18 @@
+PODS:
+  - ObjectMapper (1.3.0)
+  - SCLAlertView (0.5.8)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 1.3)
+  - SCLAlertView
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ObjectMapper: 4eb08a726e9791a93b2632049951b56a7c17e471
+  SCLAlertView: 653e84d1f9fd95333bc54671fbadb7d0c47fce49
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: cf3aae5b37a2db658a2c734606badf6a0020f15f
+
+COCOAPODS: 1.0.0
